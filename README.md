@@ -1,29 +1,35 @@
-# router-1
+# Pagination and wishlist from an [API](https://pokeapi.co/)
 
-This template should help get you started developing with Vue 3 in Vite.
+Welcome to my second practice with VueJS 3.
 
-## Recommended IDE Setup
+### Instructions
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Steps to follow to be able to test the project on your pc.
 
-## Customize configuration
+1. Open shell
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```
+Shell in Visual Studio Code
 ```
 
-### Compile and Hot-Reload for Development
+2. Clone project
 
-```sh
-npm run dev
+```
+Set "git clone https://github.com/lucasdelmonte/pokemon-wishlist.git" in the shell
 ```
 
-### Compile and Minify for Production
+3. npm install
 
-```sh
-npm run build
 ```
+We install the necessary packages to be able to run the system with "npm install"
+```
+
+4. npm run dev
+
+```
+We start the server with the command "npm run dev"
+```
+
+### Quick view of the site
+
+* Click [here](https://vue-pokemon-wishlist.netlify.app/pokemons) to open the website
